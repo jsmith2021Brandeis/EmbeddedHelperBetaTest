@@ -70,5 +70,3 @@ The tool also includes special features designed to make writing Arduino librari
   4. Create a github repository for your library
   5. "[Tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) it and push the tag (or create a release if you web hosting offers a way to do it, for example with [GitHub "releases"](https://help.github.com/articles/creating-releases/))
   6. Open an issue on [Arduino's GitHub](https://github.com/arduino/Arduino/issues), specifying the URL of the repository from where to download your library. If you have multiple libraries to submit you are welcome to do them all in a single issue." From [Library Manager FAQ](https://github.com/arduino/Arduino/wiki/Library-Manager-FAQ)
-
- 
